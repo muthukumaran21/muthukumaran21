@@ -2,7 +2,7 @@
 ## Hey there, I am Muthukumaran:)
 - I am CS Grad from Santa Clara University with over four years of professional experience as a software developer specialising on various tech stack such as Java, Python, SQL
 - I have a deep passion for software development because it allows me to create interactive solutions for real world problems.
-- Mail at me [kumaran147@gmail.com](mailto:muthukumarane11@gmail.com)
+- Mail at me [muthukumarane11@gmail.com](mailto:muthukumarane11@gmail.com)
 - Check out my [Portfolio](https://muthukumaran21.github.io/)
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthukumaran-elango/)
